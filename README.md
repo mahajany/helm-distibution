@@ -29,7 +29,7 @@ Check that index.yaml and your package is available as well:
 
 
 
-5. Use it!
+6. Use it - add repo and install this wonderful app on your k8 distribution!
 ```
 helm repo add helm-distribution-1 http://localhost:8000/helm-distibution
 helm repo list
